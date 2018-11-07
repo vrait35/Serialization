@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\anuar\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\anuar\source\repos\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\anuar\source\repos\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\anuar\source\repos\Serialization\Serialization\obj\Debug\Serialization.pdb
